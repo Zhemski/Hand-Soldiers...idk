@@ -1,0 +1,11 @@
+C:\Users\Ben\Desktop\Program_Practice\C#\Handoldiers\Handoldiers\bin\Debug\Handoldiers.exe.config
+C:\Users\Ben\Desktop\Program_Practice\C#\Handoldiers\Handoldiers\bin\Debug\Handoldiers.exe
+C:\Users\Ben\Desktop\Program_Practice\C#\Handoldiers\Handoldiers\bin\Debug\Handoldiers.pdb
+C:\Users\Ben\Desktop\Program_Practice\C#\Handoldiers\Handoldiers\obj\Debug\Handoldiers.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Desktop\Program_Practice\C#\Handoldiers\Handoldiers\obj\Debug\Handoldiers.GameMat.resources
+C:\Users\Ben\Desktop\Program_Practice\C#\Handoldiers\Handoldiers\obj\Debug\Handoldiers.PlayOrder.resources
+C:\Users\Ben\Desktop\Program_Practice\C#\Handoldiers\Handoldiers\obj\Debug\Handoldiers.PreGame.resources
+C:\Users\Ben\Desktop\Program_Practice\C#\Handoldiers\Handoldiers\obj\Debug\Handoldiers.Properties.Resources.resources
+C:\Users\Ben\Desktop\Program_Practice\C#\Handoldiers\Handoldiers\obj\Debug\Handoldiers.csproj.GenerateResource.Cache
+C:\Users\Ben\Desktop\Program_Practice\C#\Handoldiers\Handoldiers\obj\Debug\Handoldiers.exe
+C:\Users\Ben\Desktop\Program_Practice\C#\Handoldiers\Handoldiers\obj\Debug\Handoldiers.pdb
